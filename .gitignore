@@ -9,7 +9,6 @@ nes (21 sloc)  322 Bytes
 .vscode
 .DS_Store
 .parcel-cache
-tailwind.config.js
 index.html
 yarn.lock
 yarn-error.log
